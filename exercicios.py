@@ -110,10 +110,10 @@
 
 # 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
 
-# num1 = int(input('Digite o primeiro número: '))
-# num2 = int(input('Digite o segundo número: '))
-# sao_iguais = num1 == num2
-# print(f"Números {num1} e {num2} {'são iguais' if sao_iguais else 'não são iguais'}")
+num1 = int(input('Digite o primeiro número: '))
+num2 = int(input('Digite o segundo número: '))
+sao_iguais = num1 == num2
+print(f"Números {num1} e {num2} {'são iguais' if sao_iguais else 'não são iguais'}")
 
 # #### try-except e if
 
