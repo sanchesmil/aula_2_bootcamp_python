@@ -14,3 +14,4 @@ if isinstance(palavra,str):
 
 else:
     print('Digite uma entrada válida.')
+
